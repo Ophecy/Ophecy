@@ -3,9 +3,9 @@
 - 💬 Les langages que je préfère utiliser sont JavaScript et Python, pour leur grande modularité.
 - 🔭 Je travaille actuellement sur divers petits projet, notamment une extension navigateur permettant d'afficher la musique en cours d'ecoute sur une scène StreamLabs.
 - 🌱 J'apprends à utiliser le TypeScript et ses différences avec JavaScript.
-- ⚡ Je suis toujours à la recherche de petits projets interessants ! Je me suis amusé en grande majorité a faire des petits bots discord (non terminés pour la plupart)
+- ⚡ Je suis toujours à la recherche de petits projets interessants ! Je me suis amusé en grande majorité a faire des petits bots discord (non terminés pour la plupart).
 - 🪐 Je suis passionné d'aeronautique et de spatial, bien que je manque de temps pour m'informer sur ces sujets.
-- 📫 Je suis joignable par Twitter : ![@ImOphecY](https://img.shields.io/twitter/follow/ImOphecY?style=social)
+- 📫 Je suis joignable par Twitter : [![@ImOphecY](https://img.shields.io/twitter/follow/ImOphecY?style=social)](https://twitter.com/ImOphecY)
 <br>
 
 ## Les langages et technos que je maîtrise :
