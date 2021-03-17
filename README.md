@@ -1,18 +1,19 @@
-### Hi there 👋
+### Salut !
+- 😄 Je m'appelle Arthur, je suis actuellement en 4e année de master à l'école [EPSI](https://www.epsi.fr/)
+- 💬 Les langages que je préfère utiliser sont JavaScript et Python, pour leur grande modularité.
+- 🔭 Je travaille actuellement sur divers petits projet, notamment une extension navigateur permettant d'afficher la musique en cours d'ecoute sur une scène StreamLabs.
+- 🌱 J'apprends à utiliser le TypeScript et ses différences avec JavaScript.
+- ⚡ Je suis toujours à la recherche de petits projets interessants ! Je me suis amusé en grande majorité a faire des petits bots discord (non terminés pour la plupart)
+- 🪐 Je suis passionné d'aeronautique et de spatial, bien que je manque de temps pour m'informer sur ces sujets.
+- 📫 Je suis joignable par Twitter : ![@ImOphecY](https://img.shields.io/twitter/follow/ImOphecY?style=social)
+<br>
 
-<!--
-**Ophecy/Ophecy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Les langages et technos que je maîtrise :
+![HTML](https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white)
+&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-E7BA15?style=for-the-badge&logo=JavaScript&logoColor=white)
+&nbsp;![Python](https://img.shields.io/badge/-Python-E426D6?style=for-the-badge&logo=Python&logoColor=white)
+&nbsp;<a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="100" alt="discord.js" /></a>
+<br><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <img align="left" alt="Ophecy's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ophecy&show_icons=true&hide_border=true" />
 <img align="right" alt="Ophecy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ophecy&show_icons=true&hide_border=true" />
