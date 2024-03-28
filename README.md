@@ -1,5 +1,5 @@
 ### Salut !
-- 😄 Je m'appelle Arthur, je suis actuellement en 4e année de master à l'école [EPSI](https://www.epsi.fr/)
+- 😄 Je m'appelle Arthur
 - 💬 Les langages que je préfère utiliser sont JavaScript et Python, pour leur grande modularité.
 - 🔭 Je travaille actuellement sur divers petits projet, notamment une extension navigateur permettant d'afficher la musique en cours d'ecoute sur une scène StreamLabs.
 - 🌱 J'apprends à utiliser le TypeScript et ses différences avec JavaScript.
